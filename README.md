@@ -1,5 +1,6 @@
 ## Hi there 👋
 🔐 Mission
+
 Building the practical skills to defend digital infrastructure through code, labs, and relentless learning.
 
 Current Focus:
